@@ -1,0 +1,22 @@
+{
+  "personnel": {
+    "TEST001": {
+      "full_name": "Test Officer",
+      "role": "FIELD_OFFICER",
+      "post_id": "BANK_HQ_VAULT",
+      "active": true
+    },
+    "ADMIN001": {
+      "full_name": "System Administrator",
+      "role": "SYSTEM_ADMIN",
+      "post_id": null,
+      "active": true
+    },
+    "002": {
+      "full_name": "Francis Brownell",
+      "role": "SYSTEM_ADMIN",
+      "post_id": null,
+      "active": true
+    }
+  }
+}

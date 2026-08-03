@@ -1,0 +1,82 @@
+{
+
+  "geofence_radius_meters": 304.8,
+
+  "posts": {
+
+    "BROAD_STREET": {
+
+      "label": "Broad Street Field",
+
+      "latitude": 6.310556,
+
+      "longitude": -10.802778,
+
+      "supervisor_badge_id": null
+
+    },
+
+    "IB": {
+
+      "label": "IB Deployment Field",
+
+      "latitude": 6.3085,
+
+      "longitude": -10.8010,
+
+      "supervisor_badge_id": null
+
+    },
+
+    "UBA": {
+
+      "label": "UBA Field",
+
+      "latitude": 6.3020,
+
+      "longitude": -10.7975,
+
+      "supervisor_badge_id": null
+
+    },
+
+    "CENTRAL_BANK": {
+
+      "label": "Central Bank Field",
+
+      "latitude": 6.3015,
+
+      "longitude": -10.7961,
+
+      "supervisor_badge_id": null
+
+    },
+
+    "BANK_HQ_VAULT": {
+
+      "label": "Bank HQ Vault",
+
+      "latitude": 6.3015,
+
+      "longitude": -10.7961,
+
+      "supervisor_badge_id": null
+
+    },
+
+    "PORT_TERMINAL_A": {
+
+      "label": "Port Terminal A",
+
+      "latitude": 6.312,
+
+      "longitude": -10.803,
+
+      "supervisor_badge_id": null
+
+    }
+
+  }
+
+}
+

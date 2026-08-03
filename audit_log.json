@@ -1,0 +1,256 @@
+{
+  "retention_days": 90,
+  "entries": [
+    {
+      "id": "1781245859.499137",
+      "timestamp": "2026-06-12T06:30:59.499727+00:00",
+      "event_type": "ADMIN_LOGIN_SUCCESS",
+      "badge_id": "ADMIN001",
+      "detail": "Bootstrap gateway authentication.",
+      "success": true,
+      "metadata": {
+        "role": "SYSTEM_ADMIN",
+        "gateway_username": "admin"
+      }
+    },
+    {
+      "id": "1781246908.561512",
+      "timestamp": "2026-06-12T06:48:28.563089+00:00",
+      "event_type": "ADMIN_LOGIN_SUCCESS",
+      "badge_id": "ADMIN001",
+      "detail": "Bootstrap gateway authentication.",
+      "success": true,
+      "metadata": {
+        "role": "SYSTEM_ADMIN",
+        "gateway_username": "admin"
+      }
+    },
+    {
+      "id": "1781247542.152284",
+      "timestamp": "2026-06-12T06:59:02.152338+00:00",
+      "event_type": "ADMIN_LOGIN_SUCCESS",
+      "badge_id": "ADMIN001",
+      "detail": "Bootstrap gateway authentication.",
+      "success": true,
+      "metadata": {
+        "role": "SYSTEM_ADMIN",
+        "gateway_username": "admin"
+      }
+    },
+    {
+      "id": "1781248569.877043",
+      "timestamp": "2026-06-12T07:16:09.877115+00:00",
+      "event_type": "CHECK_IN_DENIED",
+      "badge_id": "001",
+      "detail": "Post assignment error: Badge not registered in personnel registry.",
+      "success": false,
+      "metadata": {}
+    },
+    {
+      "id": "1781623311.341961",
+      "timestamp": "2026-06-16T15:21:51.342968+00:00",
+      "event_type": "ADMIN_LOGIN_SUCCESS",
+      "badge_id": "ADMIN001",
+      "detail": "Bootstrap gateway authentication.",
+      "success": true,
+      "metadata": {
+        "role": "SYSTEM_ADMIN",
+        "gateway_username": "admin"
+      }
+    },
+    {
+      "id": "1781624595.941781",
+      "timestamp": "2026-06-16T15:43:15.942349+00:00",
+      "event_type": "ADMIN_LOGIN_SUCCESS",
+      "badge_id": "ADMIN001",
+      "detail": "Bootstrap gateway authentication.",
+      "success": true,
+      "metadata": {
+        "role": "SYSTEM_ADMIN",
+        "gateway_username": "admin"
+      }
+    },
+    {
+      "id": "1781624597.117902",
+      "timestamp": "2026-06-16T15:43:17.117917+00:00",
+      "event_type": "CHECK_IN_DENIED",
+      "badge_id": "01",
+      "detail": "Post assignment error: Badge not registered in personnel registry.",
+      "success": false,
+      "metadata": {}
+    },
+    {
+      "id": "1781624597.141421",
+      "timestamp": "2026-06-16T15:43:17.141437+00:00",
+      "event_type": "CHECK_IN_DENIED",
+      "badge_id": "01",
+      "detail": "Post assignment error: Badge not registered in personnel registry.",
+      "success": false,
+      "metadata": {}
+    },
+    {
+      "id": "1781624768.331074",
+      "timestamp": "2026-06-16T15:46:08.331098+00:00",
+      "event_type": "CHECK_IN_DENIED",
+      "badge_id": "01",
+      "detail": "Post assignment error: Badge not registered in personnel registry.",
+      "success": false,
+      "metadata": {}
+    },
+    {
+      "id": "1781624768.361517",
+      "timestamp": "2026-06-16T15:46:08.361541+00:00",
+      "event_type": "CHECK_IN_DENIED",
+      "badge_id": "01",
+      "detail": "Post assignment error: Badge not registered in personnel registry.",
+      "success": false,
+      "metadata": {}
+    },
+    {
+      "id": "1781624820.471049",
+      "timestamp": "2026-06-16T15:47:00.471096+00:00",
+      "event_type": "CHECK_IN_DENIED",
+      "badge_id": "01",
+      "detail": "Post assignment error: Badge not registered in personnel registry.",
+      "success": false,
+      "metadata": {}
+    },
+    {
+      "id": "1781625145.416793",
+      "timestamp": "2026-06-16T15:52:25.416815+00:00",
+      "event_type": "ENROLLMENT_SUCCESS",
+      "badge_id": "002",
+      "detail": "Officer Francis Brownell (Badge 002) enrolled successfully.",
+      "success": true,
+      "metadata": {
+        "admin": null
+      }
+    },
+    {
+      "id": "1781625200.751739",
+      "timestamp": "2026-06-16T15:53:20.751771+00:00",
+      "event_type": "ADMIN_LOGIN_SUCCESS",
+      "badge_id": "ADMIN001",
+      "detail": "Bootstrap gateway authentication.",
+      "success": true,
+      "metadata": {
+        "role": "SYSTEM_ADMIN",
+        "gateway_username": "admin"
+      }
+    },
+    {
+      "id": "1781625201.443473",
+      "timestamp": "2026-06-16T15:53:21.443499+00:00",
+      "event_type": "CHECK_IN_DENIED",
+      "badge_id": "01",
+      "detail": "Post assignment error: Badge not registered in personnel registry.",
+      "success": false,
+      "metadata": {}
+    },
+    {
+      "id": "1781780905.440512",
+      "timestamp": "2026-06-18T11:08:25.444037+00:00",
+      "event_type": "ADMIN_LOGIN_DENIED",
+      "badge_id": "admin",
+      "detail": "Invalid credentials.",
+      "success": false,
+      "metadata": {}
+    },
+    {
+      "id": "1781780919.09038",
+      "timestamp": "2026-06-18T11:08:39.090440+00:00",
+      "event_type": "ADMIN_LOGIN_DENIED",
+      "badge_id": "admin",
+      "detail": "Invalid credentials.",
+      "success": false,
+      "metadata": {}
+    },
+    {
+      "id": "1781780948.366624",
+      "timestamp": "2026-06-18T11:09:08.366671+00:00",
+      "event_type": "ADMIN_LOGIN_DENIED",
+      "badge_id": "admin",
+      "detail": "Invalid credentials.",
+      "success": false,
+      "metadata": {}
+    },
+    {
+      "id": "1781781125.559423",
+      "timestamp": "2026-06-18T11:12:05.559471+00:00",
+      "event_type": "ADMIN_LOGIN_SUCCESS",
+      "badge_id": "ADMIN001",
+      "detail": "Bootstrap gateway authentication.",
+      "success": true,
+      "metadata": {
+        "role": "SYSTEM_ADMIN",
+        "gateway_username": "admin"
+      }
+    },
+    {
+      "id": "1781792652.314272",
+      "timestamp": "2026-06-18T14:24:12.314910+00:00",
+      "event_type": "ADMIN_LOGIN_DENIED",
+      "badge_id": "admin",
+      "detail": "Invalid credentials.",
+      "success": false,
+      "metadata": {}
+    },
+    {
+      "id": "1781792763.464785",
+      "timestamp": "2026-06-18T14:26:03.464839+00:00",
+      "event_type": "ADMIN_LOGIN_DENIED",
+      "badge_id": "ADMIN001",
+      "detail": "Invalid credentials.",
+      "success": false,
+      "metadata": {}
+    },
+    {
+      "id": "1781792769.545665",
+      "timestamp": "2026-06-18T14:26:09.545702+00:00",
+      "event_type": "ADMIN_LOGIN_DENIED",
+      "badge_id": "ADMIN001",
+      "detail": "Invalid credentials.",
+      "success": false,
+      "metadata": {}
+    },
+    {
+      "id": "1781792773.564766",
+      "timestamp": "2026-06-18T14:26:13.564807+00:00",
+      "event_type": "ADMIN_LOGIN_DENIED",
+      "badge_id": "ADMIN001",
+      "detail": "Invalid credentials.",
+      "success": false,
+      "metadata": {}
+    },
+    {
+      "id": "1781792792.781685",
+      "timestamp": "2026-06-18T14:26:32.781746+00:00",
+      "event_type": "ADMIN_LOGIN_DENIED",
+      "badge_id": "admin",
+      "detail": "Invalid credentials.",
+      "success": false,
+      "metadata": {}
+    },
+    {
+      "id": "1781792882.540551",
+      "timestamp": "2026-06-18T14:28:02.540599+00:00",
+      "event_type": "ADMIN_LOGIN_SUCCESS",
+      "badge_id": "ADMIN001",
+      "detail": "Bootstrap gateway authentication.",
+      "success": true,
+      "metadata": {
+        "role": "SYSTEM_ADMIN",
+        "gateway_username": "admin"
+      }
+    },
+    {
+      "id": "1785761549.48329",
+      "timestamp": "2026-08-03T12:52:29.485272+00:00",
+      "event_type": "ADMIN_LOGIN_DENIED",
+      "badge_id": "admin",
+      "detail": "Invalid credentials.",
+      "success": false,
+      "metadata": {}
+    }
+  ]
+}

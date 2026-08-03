@@ -1,0 +1,8 @@
+flask>=3.0.2
+numpy>=1.26.0
+opencv-python-headless>=4.9.0
+PyJWT>=2.8.0
+
+# Optional — requires dlib + Visual Studio C++ build tools on Windows.
+# Use Python 3.11/3.12 if you need full face_recognition support:
+# face_recognition==1.4.0
